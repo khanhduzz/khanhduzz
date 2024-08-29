@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🚀
 
 <!--
 **khanhduzz/khanhduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <h2>🚀 About Me</h2>
+ <!--   <h2>🚀 About Me</h2> -->
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a Software Engineering specialist at Website developer with Java, Spring,...</p>
 </div>
@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=dark" alt=""
+</div>
+<!--
+<div align="center">
   <img src="https://raw.githubusercontent.com/khanhduzz/khanhduzz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/khanhduzz/khanhduzz/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
+-->
 
