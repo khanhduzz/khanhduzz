@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=dark" alt=""
+    <img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=dark" alt="Stats"/>
 </div>
 <!--
 <div align="center">
