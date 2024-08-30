@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanhduzz&theme=github_dark" alt="Du's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanhduzz&theme=github_dark&utcOffset=10" alt="Du's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanhduzz&theme=github_dark&utcOffset=7" alt="Du's GitHub Stats"/>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanhduzz&theme=github_dark" alt="Du's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanhduzz&theme=github_dark" alt="Du's GitHub Stats"/></td>
     </tr>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=dark" alt="Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=light" alt="Stats"/>
 </div>
 <!--
 <div align="center">
