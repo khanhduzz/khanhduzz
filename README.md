@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 <div align="center">
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanhduzz&theme=github_dark" alt="Du's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduzz&theme=merko" alt="Du's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduzz&theme=github" alt="Du's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
-<!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanhduzz&theme=github_dark" alt="Du's GitHub Stats"/></td> -->
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanhduzz&theme=github_dark&utcOffset=7" alt="Du's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanhduzz&theme=github_dark" alt="Du's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanhduzz&theme=github_dark" alt="Du's GitHub Stats"/></td>
+<!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td> -->
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanhduzz&theme=github&utcOffset=7" alt="Du's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
