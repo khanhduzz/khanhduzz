@@ -1,4 +1,4 @@
-## Hi there 👋🚀
+<!-- ## Hi there 👋🚀 -->
 
 <!--
 **khanhduzz/khanhduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,29 +17,30 @@ Here are some ideas to get you started:
 <div align="center">
  <!--   <h2>🚀 About Me</h2> -->
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Website developer with Java, Spring,...</p>
+<!--     <p>I'm a Software Engineering specialist at Website developer with Java, Spring,...</p> -->
 </div>
 
 <div align="center">
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduzz&theme=github" alt="Du's Contribution Streak"/></td>
+<!--        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>    -->
+<!--        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=khanhduzz&theme=github" alt="Du's Contribution Streak"/></td> -->
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
 <!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td> -->
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanhduzz&theme=github&utcOffset=7" alt="Du's GitHub Stats"/>
+<!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanhduzz&theme=github&utcOffset=7" alt="Du's GitHub Stats"/> -->
+     <td><img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=light" alt="Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>
+<!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td> -->
     </tr>
  </table>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=light" alt="Stats"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=light" alt="Stats"/> -->
 </div>
 <!--
 <div align="center">
