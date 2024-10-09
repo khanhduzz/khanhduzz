@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
 <!--     <p>I'm a Software Engineering specialist at Website developer with Java, Spring,...</p> -->
 </div>
+[![An image of @khanhduzz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khanhduzz)](https://holopin.io/@khanhduzz)
 
 <div align="center">
  <table align="center" width="100%" height="100%" >
