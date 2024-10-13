@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <!--     <p>I'm a Software Engineering specialist at Website developer with Java, Spring,...</p> -->
 </div>
 
-
-
 <!-- [![An image of @khanhduzz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khanhduzz)](https://holopin.io/@khanhduzz) -->
 
 <!--
@@ -59,4 +57,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/khanhduzz/khanhduzz/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
 -->
+
+[![](https://visitcount.itsvg.in/api?id=khanhduzz&icon=0&color=3)](https://visitcount.itsvg.in)
 
