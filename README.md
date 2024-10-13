@@ -58,5 +58,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-[![](https://visitcount.itsvg.in/api?id=khanhduzz&icon=0&color=3)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=khanhduzz&icon=0&color=3)](https://visitcount.itsvg.in) -->
+
+[![](https://visitcount.itsvg.in/api?id=khanhduzz&label=Eur%C3%A9ka&color=6&icon=9&pretty=false)](https://visitcount.itsvg.in)
 
