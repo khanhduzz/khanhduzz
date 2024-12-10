@@ -1,3 +1,4 @@
+### Hi, have a good day... 🥬
 <!-- ## Hi there 👋🚀 -->
 <!--
 **khanhduzz/khanhduzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,8 +42,8 @@ Here are some ideas to get you started:
     <tr>
 <!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td> -->
 <!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khanhduzz&theme=github&utcOffset=7" alt="Du's GitHub Stats"/> -->
-     <td><img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=light" alt="Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td>
+<!--      <td><img src="https://github-readme-stats.vercel.app/api?username=khanhduzz&show_icons=true&theme=light" alt="Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td> -->
 <!--         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khanhduzz&theme=github" alt="Du's GitHub Stats"/></td> -->
     </tr>
  </table>
